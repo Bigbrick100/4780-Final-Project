@@ -1,2 +1,6 @@
+Before running you will need to install the weights file and put it in the project directory:
+    https://pjreddie.com/media/files/yolov3.weights
+    *Make sure its still named "yolov3.weights"
+
 To run my project you should be able to just run this command in the project directory:
     python3 main.py
