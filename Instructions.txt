@@ -1,0 +1,2 @@
+To run my project you should be able to just run this command in the project directory:
+    python3 main.py
